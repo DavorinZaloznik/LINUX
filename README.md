@@ -1,2 +1,5 @@
-# LINUX
-Linux, Git and C++
+## Dan 1
+
+- Linux
+- Git
+- GitHub
